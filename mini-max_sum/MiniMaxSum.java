@@ -10,7 +10,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class MiniMaxSum {
+class Result {
     public static final int INTS_TO_USE = 4;
 
     /*
